@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/fborlido/fm-stats preview-card-component.git
-- Live Site URL: https://fborlido.github.io/fm-stats preview-card-component/
+- Solution URL: https://github.com/fborlido/fm-stats-preview-card-component.git
+- Live Site URL: https://fborlido.github.io/fm-stats-preview-card-component/
 
 ## My process
 
